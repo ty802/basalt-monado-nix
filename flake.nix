@@ -38,7 +38,9 @@
         python3
 	tbb	
     ];
-
+    patches = [
+    ./fix.path
+    ];
     };
     }
     );

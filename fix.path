@@ -1,0 +1,11 @@
+diff --git a/thirdparty/Pangolin/include/pangolin/log/packetstream_tags.h b/thirdparty/Pangolin/include/pangolin/log/packetstream_tags.h
+index 673cc5c..2704351 100644
+--- a/thirdparty/Pangolin/include/pangolin/log/packetstream_tags.h
++++ b/thirdparty/Pangolin/include/pangolin/log/packetstream_tags.h
+@@ -1,5 +1,6 @@
+ #pragma once
+ 
++#include <cstdint>
+ #include <string>
+ 
+ namespace pangolin {
