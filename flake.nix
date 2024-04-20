@@ -35,7 +35,8 @@
         bzip2
         libuvc
         fmt
-        python
+        python3
+	tbb	
     ];
 
     };
