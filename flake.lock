@@ -3,11 +3,11 @@
     "basalt-src": {
       "flake": false,
       "locked": {
-        "lastModified": 1710024523,
-        "narHash": "sha256-EbfsSdfXSPbZmJ6Cy0Mq2q3KxDPO/NPZuRMLll9YFaY=",
+        "lastModified": 1715606763,
+        "narHash": "sha256-vGtt78E09ZKCLH+9m+IuLQvyGv/uxCo6w+iJOFbvXU4=",
         "ref": "refs/heads/main",
-        "rev": "673cc5c68b1889f4d6567fa85fe2631672704351",
-        "revCount": 488,
+        "rev": "c03cbb38fd3b8c1bbc4addae013d7fd6e17ba102",
+        "revCount": 489,
         "submodules": true,
         "type": "git",
         "url": "https://gitlab.freedesktop.org/mateosss/basalt.git"
@@ -38,11 +38,11 @@
     },
     "nixpkgs": {
       "locked": {
-        "lastModified": 1713297878,
-        "narHash": "sha256-hOkzkhLT59wR8VaMbh1ESjtZLbGi+XNaBN6h49SPqEc=",
+        "lastModified": 1717786204,
+        "narHash": "sha256-4q0s6m0GUcN7q+Y2DqD27iLvbcd1G50T2lv08kKxkSI=",
         "owner": "nixos",
         "repo": "nixpkgs",
-        "rev": "66adc1e47f8784803f2deb6cacd5e07264ec2d5c",
+        "rev": "051f920625ab5aabe37c920346e3e69d7d34400e",
         "type": "github"
       },
       "original": {
